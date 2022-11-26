@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e650900f.css",
+    "main.js": "/static/js/main.555fdfa4.js",
+    "static/media/blog01.png": "/static/media/blog01.9a8be600aac6add23a5b.png",
+    "static/media/possibility.png": "/static/media/possibility.c60b1d9deaa5bda424a9.png",
+    "static/media/blog05.png": "/static/media/blog05.556161f2aad0aa27acfe.png",
+    "static/media/blog03.png": "/static/media/blog03.324ebc6474e9d0468674.png",
+    "static/media/blog02.png": "/static/media/blog02.0499ed2839cb0b0f3c4e.png",
+    "static/media/blog04.png": "/static/media/blog04.d78fb6cfd95f9ed17dca.png",
+    "static/media/ai.png": "/static/media/ai.e0b7cd994266b250cc06.png",
+    "static/media/logo.svg": "/static/media/logo.9615cc37b34ae1f8de7aa814c009c687.svg",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/index.html",
+    "main.e650900f.css.map": "/static/css/main.e650900f.css.map",
+    "main.555fdfa4.js.map": "/static/js/main.555fdfa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e650900f.css",
+    "static/js/main.555fdfa4.js"
+  ]
+}
